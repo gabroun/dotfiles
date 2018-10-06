@@ -1,0 +1,32 @@
+{
+    //Editor Config
+    "window.openFilesInNewWindow": "on",
+    "workbench.editor.enablePreview": false,
+    // "editor.formatOnSave": false,
+    "editor.fontSize": 12,
+    "editor.formatOnSave": true,
+    "prettier.parser": "flow",
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 2,
+    "editor.wordWrap": "on",
+    //ESlint
+    "eslint.enable": true,
+    "eslint.options": {
+        "rules": {
+            "no-console": "off"
+        }
+    },
+    "html.format.wrapLineLength": 0,
+    //Stylelint
+    "prettier.stylelintIntegration": false,
+    "stylelint.enable": false,
+    "workbench.iconTheme": "material-icon-theme",
+    //html tag highlighter
+    "highlight-matching-tag.leftStyle": {
+        "borderWidth": "0 0 0 3px",
+        "borderStyle": "dotted",
+        "borderColor": "red",
+        "borderRadius": "5px"
+    },
+    "window.zoomLevel": 0
+}
