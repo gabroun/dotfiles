@@ -6,6 +6,7 @@
     "editor.fontSize": 12,
     "editor.formatOnSave": true,
     "prettier.parser": "flow",
+    "prettier.requireConfig": true,
     "prettier.singleQuote": true,
     "prettier.tabWidth": 2,
     "editor.wordWrap": "on",
