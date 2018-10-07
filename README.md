@@ -1,3 +1,3 @@
 # dotfiles
 
-The setting I am currently using
+The settings I am currently using
