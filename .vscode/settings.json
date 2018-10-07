@@ -4,10 +4,14 @@
     "workbench.editor.enablePreview": false,
     // "editor.formatOnSave": false,
     "editor.fontSize": 12,
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "'Inconsolata for Powerline', monospace",
+    "terminal.integrated.fontFamily": "monospace",
+    "workbench.colorTheme": "Night Owl",
     "editor.formatOnSave": true,
     "prettier.parser": "flow",
-    "prettier.requireConfig": true,
     "prettier.singleQuote": true,
+    "prettier.requireConfig": true,
     "prettier.tabWidth": 2,
     "editor.wordWrap": "on",
     //ESlint
@@ -29,5 +33,4 @@
         "borderColor": "red",
         "borderRadius": "5px"
     },
-    "window.zoomLevel": 0
 }
