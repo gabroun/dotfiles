@@ -1,36 +1,48 @@
 {
-    //Editor Config
-    "window.openFilesInNewWindow": "on",
-    "workbench.editor.enablePreview": false,
-    // "editor.formatOnSave": false,
-    "editor.fontSize": 12,
-    "window.zoomLevel": 0,
-    "editor.fontFamily": "'Inconsolata for Powerline', monospace",
-    "terminal.integrated.fontFamily": "monospace",
-    "workbench.colorTheme": "Night Owl",
-    "editor.formatOnSave": true,
-    "prettier.parser": "flow",
-    "prettier.singleQuote": true,
-    "prettier.requireConfig": true,
-    "prettier.tabWidth": 2,
-    "editor.wordWrap": "on",
-    //ESlint
-    "eslint.enable": true,
-    "eslint.options": {
-        "rules": {
-            "no-console": "off"
-        }
-    },
-    "html.format.wrapLineLength": 0,
-    //Stylelint
-    "prettier.stylelintIntegration": false,
-    "stylelint.enable": false,
-    "workbench.iconTheme": "material-icon-theme",
-    //html tag highlighter
-    "highlight-matching-tag.leftStyle": {
-        "borderWidth": "0 0 0 3px",
-        "borderStyle": "dotted",
-        "borderColor": "red",
-        "borderRadius": "5px"
-    },
+  //Editor Config
+  "window.openFilesInNewWindow": "on",
+  "workbench.editor.enablePreview": false,
+  // "editor.formatOnSave": false,
+  "editor.fontSize": 16,
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "'Inconsolata for Powerline', monospace",
+  "terminal.integrated.fontFamily": "monospace",
+  "workbench.colorTheme": "Night Owl",
+  "editor.formatOnSave": true,
+  "prettier.parser": "flow",
+  "prettier.singleQuote": true,
+  "prettier.requireConfig": true,
+  "prettier.tabWidth": 2,
+  "editor.wordWrap": "on",
+  //ESlint
+  "eslint.enable": true,
+  "eslint.options": {
+    "rules": {
+      "no-console": "off"
+    }
+  },
+  "html.format.wrapLineLength": 0,
+  //Stylelint
+  "prettier.stylelintIntegration": false,
+  "stylelint.enable": false,
+  "workbench.iconTheme": "material-icon-theme",
+  //html tag highlighter
+  "highlight-matching-tag.leftStyle": {
+    "borderWidth": "0 0 0 3px",
+    "borderStyle": "dotted",
+    "borderColor": "red",
+    "borderRadius": "5px"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#000C1D",
+    "activityBar.border": "#102a44",
+    "sideBar.background": "#001122",
+    "sideBar.border": "#102a44",
+    "sideBar.foreground": "#8BADC1"
+  },
+  "bracketPairColorizer.forceIterationColorCycle": true,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "bold",
+  "terminal.integrated.fontWeight": "bold",
+  "terminal.integrated.fontSize": 14
 }
